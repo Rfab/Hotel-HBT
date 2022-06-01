@@ -1,0 +1,174 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+
+nav .container {
+    max-width: 1100px;
+    margin: 0 auto;
+    /* border: 2px solid ; */
+    height: 60px;
+}
+
+/* .ul{
+    height: 90px;
+} */
+
+
+/* navbar */
+header {
+    background-color: #333;
+    height: 70px;
+}
+
+header .container h1 {
+    float:left;
+    color: aliceblue;
+    padding: 5px;
+}
+
+header .container ul {
+    float: right;
+
+}
+
+header .container li{
+    list-style: none;
+    display: inline-block;
+}
+
+header .container li a{
+    /* display: block; */
+    float: left;
+    color: aliceblue;
+    text-decoration: none;
+    padding: 20px;
+}
+
+.op1:hover{
+    background-color: #ffe4e1;
+    color: black;
+}
+
+.op2:hover{
+    background-color: greenyellow;
+    color: black;
+}
+
+.op3:hover{
+    background-color: red;
+    color: black;
+}
+
+.block{
+    float: left;
+    width: 33.3%;
+    padding-top: 45px;
+}
+
+.fa-solid{
+    padding-left: 10px;
+}
+
+.great{
+    background-color: #333;
+    padding-left: 25px;
+    padding-top: 25px;
+    height: 200px;
+    color: #fff;
+    text-align: center;
+    
+}
+
+.meals{
+    background-color: #333;
+    padding-top: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 200px;
+    color: #fff;
+    text-align: center;
+}
+.p11{
+    padding-top: 25px;
+
+}
+
+.room{
+    background-color: #333;
+    padding-right: 25px;
+    padding-top: 25px;
+    height: 200px;
+    color: #fff;
+    text-align: center;   
+}
+
+.p12{
+    padding-top: 25px;
+
+}
+
+h3{
+
+padding-top: 15px;
+
+}
+
+.p13{
+    padding-top: 25px;
+   
+}
+
+.sp2 {
+
+    padding-top: 80px;
+    padding-bottom: 25px;
+}
+
+form{
+    margin-left: 5px;
+
+}
+
+input{
+    width: 1100px;
+    height: 30px;
+}
+
+#msg{
+    width: 1100px;
+    height: 200px;
+}
+
+.Sub1{
+    width: 100px; height: 45px;
+    color: aliceblue;
+    background-color: #333;
+}
+
+i{
+ list-style: ;
+}
+
+footer {
+    background-color: #444;
+    color: #dcdcdc;
+    text-align: center;
+    text-align: center;
+    height: 60px;
+    padding-top: 30px;
+    padding-bottom: 35PXpx;
+
+}
+
+.clear{
+    clear: both;
+}

@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+
+nav .container {
+    max-width: 1100px;
+    margin: 0 auto;
+    /* border: 2px solid ; */
+    height: 60px;
+}
+
+/* .ul{
+    height: 90px;
+} */
+
+
+/* navbar */
+header {
+    background-color: #333;
+    height: 70px;
+}
+
+header .container h1 {
+    float:left;
+    color: aliceblue;
+    padding: 20px;
+}
+
+header .container ul {
+    float: right;
+
+}
+
+header .container li{
+    list-style: none;
+    display: inline-block;
+}
+
+header .container li a{
+    /* display: block; */
+    float: left;
+    color: aliceblue;
+    text-decoration: none;
+    padding: 20px;
+}
+
+.op1:hover{
+    background-color: #ffe4e1;
+    color: black;
+}
+
+.op2:hover{
+    background-color: greenyellow;
+    color: black;
+}
+
+.op3:hover{
+    background-color: red;
+    color: black;
+}
+
+#content{
+    height: 200px;
+
+}
+
+#content .info1{
+    width: 50%;
+    margin: 0;
+    float: left;
+    height: 200px;
+    background-color: #faebd7;
+    /* border: 2px solid ; */
+}
+
+#content .image{
+    width: 50%;
+    display: block;
+    float: right;
+    height: 200px;
+    background-color: #faebd7;
+
+
+}
+
+.img {
+    width: 40%;
+    /* display: block; */
+    margin: 20px;
+    border-radius: 70%;
+    position:relative;
+    margin-right: 150px ;
+
+
+}
+
+.clear{
+    clear: both;
+}
+
+/* Testimonies */
+
+#testimonies {
+    background: url(/img/test-bg.jpg) center center/cover;
+    height: 500px;
+}¨
+
+.testimony1 {
+    background-color: green; 
+}
+
+#testimonies .testimony1 img{
+    width: 90px;
+    display: block;
+    border-radius: 50%;
+    float: left;
+    padding-top: 10Px;
+}
+
+.testimony1 {
+    /* border: 2px solid blue; */
+    background-color: bisque;
+    margin-bottom: 30px;
+    height: 120px;
+    opacity: 0.7;
+}
+
+.testimony1 p {
+    padding-left: 100px;
+    padding-top: 10px;
+}
+
+footer {
+    background-color: #444;
+    color: #dcdcdc;
+    text-align: center;
+    text-align: center;
+    height: 60px;
+    padding-top: 30px;
+    padding-bottom: 35PXpx;
+
+}
+
+.sp1{
+    color: brown;
+}
+
+.h1tap{
+    padding-top: 35px;
+    padding-bottom: 15px;
+    text-align: center;
+    color: #fff;
+}
+
+.texto1{
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 5px;
+}
+
+.info1{
+    text-align: center;
+}
+
